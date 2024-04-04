@@ -52,4 +52,4 @@ This web application displays lists of board games and their reviews. While anyo
   - username: daffy   |     password: duck  (manager role)
 5. You can also sign-up as a new user and customize your role to play with the application! 😊
 6. This project explains the real cicd complete process
-7. The basic concept of CICD is contained here.
+7. The concept of CICD is contained in this project.
